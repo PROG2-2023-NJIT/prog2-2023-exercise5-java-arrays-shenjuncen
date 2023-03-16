@@ -1,9 +1,8 @@
 package prog2.exercise5.flight.booking.system;
-
-import java.util.Scanner;
+er;
 
 /**
- * Hello world!
+ * Hello world!import java.util.Scann
  *
  */
 public class Main
@@ -19,4 +18,5 @@ public class Main
         flightBooking.displayTripDetails();
     }
 }
+
 
